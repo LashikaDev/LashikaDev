@@ -101,8 +101,9 @@ I hold a Bachelor’s Degree in Software Engineering from Birmingham City Univer
 
 ## 👨‍💻 GitHub Analytics <br>
 ![](https://github-readme-stats.shion.dev/api?username=LashikaDev&theme=react&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=LashikaDev&theme=react&hide_border=false)<br>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=LashikaDev&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=LashikaDev&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://streak-stats.demolab.com/?user=LashikaDev&theme=react&hide_border=false)
+
 
 ## 🤝 Connect with me
 <div align="left">
