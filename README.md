@@ -1,6 +1,6 @@
 ## <p align="center"> Hi, I'm Lashika Sahan Mahanama </p>
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&lines=Full+Stack+Software+Engineer;Graphic+Designer" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&lines=Full+Stack+Software+Developer;Graphic+Designer" alt="Typing SVG" /></a></p>
 
 ## 👩‍💻 About Me
 
@@ -125,8 +125,8 @@ I hold a Bachelor’s Degree in Software Engineering from Birmingham City Univer
   <a href="mailto:lashikasahan123@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="30" alt="gmail logo" />
   </a>
-  <a >
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" href="https://t.me/Lashikas2002" width="48" height="30" alt="telegram logo" />
+  <a href="https://t.me/Lashikas2002">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="48" height="30" alt="telegram logo" />
   </a>
 </div><br>
 
