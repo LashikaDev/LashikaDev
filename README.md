@@ -112,13 +112,13 @@ I hold a Bachelor’s Degree in Software Engineering from Birmingham City Univer
 
 ## 🤝 Connect with me
 <div align="left">
-  <a href="https://www.linkedin.com/in/lashika-mahanama-0593b0185/"><img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=34&bg=%23374151&shape=circle&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flashika-mahanama-0593b0185%2F" alt="linkedin" /></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/lashika_2002/"><img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=34&bg=%23374151&shape=circle&link=https%3A%2F%2Fwww.instagram.com%2Flashika_2002%2F" alt="instagram" /></a>&nbsp;&nbsp;
-  <a href="https://wa.me/+94776456203"><img src="https://www.readmecodegen.com/api/social-icon?name=whatsapp&size=34&bg=%23374151&shape=circle&link=https%3A%2F%2Fwa.me%2F%2B94776456203" alt="whatsapp" /></a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/lashikamahanama/"><img src="https://www.readmecodegen.com/api/social-icon?name=facebook&size=34&bg=%23374151&shape=circle&link=https%3A%2F%2Fwww.facebook.com%2Flashikamahanama%2F" alt="facebook" /></a>&nbsp;&nbsp;
-  <a href="https://medium.com/@lashikamahanama"><img src="https://www.readmecodegen.com/api/social-icon?name=medium&size=34&bg=%23374151&shape=circle&color=%23cdc6cb&link=https%3A%2F%2Fmedium.com%2F%40lashikamahanama" alt="medium" /></a>&nbsp;&nbsp;
-  <a href="mailto:lashikasahan123@gmail.com"><img src="https://www.readmecodegen.com/api/social-icon?name=gmail&size=34&bg=%23374151&shape=circle&link=mailto%3Alashikasahan123%40gmail.com" alt="gmail" /></a>&nbsp;&nbsp;
-  <a href="https://t.me/Lashikas2002"><img src="https://www.readmecodegen.com/api/social-icon?name=telegram&size=34&bg=%23374151&shape=circle&link=https%3A%2F%2Ft.me%2FLashikas2002" alt="telegram" /></a>
+  <a href="https://www.linkedin.com/in/lashika-mahanama-0593b0185/"><img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=30&bg=%23374151&shape=circle&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flashika-mahanama-0593b0185%2F" alt="linkedin" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/lashika_2002/"><img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=30&bg=%23374151&shape=circle&link=https%3A%2F%2Fwww.instagram.com%2Flashika_2002%2F" alt="instagram" /></a>&nbsp;&nbsp;
+  <a href="https://wa.me/+94776456203"><img src="https://www.readmecodegen.com/api/social-icon?name=whatsapp&size=30&bg=%23374151&shape=circle&link=https%3A%2F%2Fwa.me%2F%2B94776456203" alt="whatsapp" /></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/lashikamahanama/"><img src="https://www.readmecodegen.com/api/social-icon?name=facebook&size=30&bg=%23374151&shape=circle&link=https%3A%2F%2Fwww.facebook.com%2Flashikamahanama%2F" alt="facebook" /></a>&nbsp;&nbsp;
+  <a href="https://medium.com/@lashikamahanama"><img src="https://www.readmecodegen.com/api/social-icon?name=medium&size=30&bg=%23374151&shape=circle&color=%23cdc6cb&link=https%3A%2F%2Fmedium.com%2F%40lashikamahanama" alt="medium" /></a>&nbsp;&nbsp;
+  <a href="mailto:lashikasahan123@gmail.com"><img src="https://www.readmecodegen.com/api/social-icon?name=gmail&size=30&bg=%23374151&shape=circle&link=mailto%3Alashikasahan123%40gmail.com" alt="gmail" /></a>&nbsp;&nbsp;
+  <a href="https://t.me/Lashikas2002"><img src="https://www.readmecodegen.com/api/social-icon?name=telegram&size=30&bg=%23374151&shape=circle&link=https%3A%2F%2Ft.me%2FLashikas2002" alt="telegram" /></a>
 </div><br>
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&weight=500&size=16&pause=1000&color=70A5FD&center=true&vCenter=true&lines=Thanks+for+Visiting+My+Profile..!" alt="Typing SVG" /></a></p>
