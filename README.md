@@ -107,14 +107,27 @@ I hold a Bachelor’s Degree in Software Engineering from Birmingham City Univer
 
 ## 🤝 Connect with me
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="48" height="30" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="48" height="30" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="48" height="30" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="48" height="30" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="30" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="48" height="30" alt="dribbble logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="30" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="48" height="30" alt="telegram logo"  />
+  <a href="www.youtube.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="48" height="30" alt="youtube logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/lashika-mahanama-0593b0185/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="48" height="30" alt="discord logo" />
+  </a>
+  <a href="https://wa.me/+94776456203">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="48" height="30" alt="whatsapp logo" />
+  </a>
+  <a href="https://www.facebook.com/lashikamahanama/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="48" height="30" alt="facebook logo" />
+  </a>
+  <a href="https://medium.com/@lashikamahanama">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="48" height="30" alt="dribbble logo" />
+  </a>
+  <a href="mailto:lashikasahan123@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="30" alt="gmail logo" />
+  </a>
+  <a href="https://t.me/Lashikas2002">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="48" height="30" alt="telegram logo" />
+  </a>
 </div><br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lashikadev&label=Profile%20views&color=61DAFB&style=flat" alt="lashikadev" /> </p>
