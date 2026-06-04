@@ -125,8 +125,8 @@ I hold a Bachelor’s Degree in Software Engineering from Birmingham City Univer
   <a href="mailto:lashikasahan123@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="30" alt="gmail logo" />
   </a>
-  <a href="https://t.me/Lashikas2002">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="48" height="30" alt="telegram logo" />
+  <a >
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" href="https://t.me/Lashikas2002" width="48" height="30" alt="telegram logo" />
   </a>
 </div><br>
 
