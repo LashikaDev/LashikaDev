@@ -103,33 +103,29 @@ I hold a Bachelor’s Degree in Software Engineering from Birmingham City Univer
 ![](https://github-readme-stats.shion.dev/api?username=LashikaDev&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=LashikaDev&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 
+## GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LashikaDev&theme=tokyonight" alt="GitHub Streak" />
+</div><br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LashikaDev&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+</div><br>
 
 ## 🤝 Connect with me
 <div align="left">
-  <a href="www.youtube.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="48" height="30" alt="youtube logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/lashika-mahanama-0593b0185/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="48" height="30" alt="discord logo" />
-  </a>
-  <a href="https://wa.me/+94776456203">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="48" height="30" alt="whatsapp logo" />
-  </a>
-  <a href="https://www.facebook.com/lashikamahanama/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="48" height="30" alt="facebook logo" />
-  </a>
-  <a href="https://medium.com/@lashikamahanama">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="48" height="30" alt="dribbble logo" />
-  </a>
-  <a href="mailto:lashikasahan123@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="30" alt="gmail logo" />
-  </a>
-  <a href="https://t.me/Lashikas2002">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="48" height="30" alt="telegram logo" />
-  </a>
+  <a href="https://www.linkedin.com/in/lashika-mahanama-0593b0185/"><img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=34&bg=%23374151&shape=circle&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flashika-mahanama-0593b0185%2F" alt="linkedin" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/lashika_2002/"><img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=34&bg=%23374151&shape=circle&link=https%3A%2F%2Fwww.instagram.com%2Flashika_2002%2F" alt="instagram" /></a>&nbsp;&nbsp;
+  <a href="https://wa.me/+94776456203"><img src="https://www.readmecodegen.com/api/social-icon?name=whatsapp&size=34&bg=%23374151&shape=circle&link=https%3A%2F%2Fwa.me%2F%2B94776456203" alt="whatsapp" /></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/lashikamahanama/"><img src="https://www.readmecodegen.com/api/social-icon?name=facebook&size=34&bg=%23374151&shape=circle&link=https%3A%2F%2Fwww.facebook.com%2Flashikamahanama%2F" alt="facebook" /></a>&nbsp;&nbsp;
+  <a href="https://medium.com/@lashikamahanama"><img src="https://www.readmecodegen.com/api/social-icon?name=medium&size=34&bg=%23374151&shape=circle&color=%23cdc6cb&link=https%3A%2F%2Fmedium.com%2F%40lashikamahanama" alt="medium" /></a>&nbsp;&nbsp;
+  <a href="mailto:lashikasahan123@gmail.com"><img src="https://www.readmecodegen.com/api/social-icon?name=gmail&size=34&bg=%23374151&shape=circle&link=mailto%3Alashikasahan123%40gmail.com" alt="gmail" /></a>&nbsp;&nbsp;
+  <a href="https://t.me/Lashikas2002"><img src="https://www.readmecodegen.com/api/social-icon?name=telegram&size=34&bg=%23374151&shape=circle&link=https%3A%2F%2Ft.me%2FLashikas2002" alt="telegram" /></a>
 </div><br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lashikadev&label=Profile%20views&color=61DAFB&style=flat" alt="lashikadev" /> </p>
+
+
 
 
 
