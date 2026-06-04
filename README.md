@@ -1,6 +1,6 @@
 ## <p align="center"> Hi, I'm Lashika Sahan Mahanama </p>
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&lines=Full+Stack+Software+Developer;Graphic+Designer" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&weight=500&pause=1000&color=70A5FD&center=true&vCenter=true&lines=Full+Stack+Software+Developer;Graphic+Designer" alt="Typing SVG" /></a></p>
 
 ## 👩‍💻 About Me
 
@@ -99,13 +99,10 @@ I hold a Bachelor’s Degree in Software Engineering from Birmingham City Univer
 </div><br><br>
 </div>
 
-## 👨‍💻 GitHub Analytics <br>
-![](https://github-readme-stats.shion.dev/api?username=LashikaDev&theme=react&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=LashikaDev&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-
-## GitHub Statistics
-
+## 👨‍💻 GitHub Statistics <br>
 <div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=LashikaDev&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="LashikaDev GitHub Stats" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=LashikaDev&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="LashikaDev Top Languages" /> <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LashikaDev&theme=tokyonight" alt="GitHub Streak" />
 </div><br>
 
@@ -124,6 +121,7 @@ I hold a Bachelor’s Degree in Software Engineering from Birmingham City Univer
   <a href="https://t.me/Lashikas2002"><img src="https://www.readmecodegen.com/api/social-icon?name=telegram&size=34&bg=%23374151&shape=circle&link=https%3A%2F%2Ft.me%2FLashikas2002" alt="telegram" /></a>
 </div><br>
 
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&weight=500&size=16&pause=1000&color=70A5FD&center=true&vCenter=true&lines=Thanks+for+Visiting+My+Profile..!" alt="Typing SVG" /></a></p>
 
 
 
